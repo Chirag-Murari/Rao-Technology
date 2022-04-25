@@ -591,8 +591,9 @@ we made the decision to start my developing,  With my friend's support, we went 
     </section>
     <div id="map"></div>
     <!-- END section -->
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59378.2052435956!2d70.42870757910157!3d21.541465400000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39580224d380f369%3A0x95b035429474f867!2sPatel%20Restaurant%20And%20Banquet%20Hall!5e0!3m2!1sen!2sin!4v1650866994399!5m2!1sen!2sin" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+  <center>  
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59378.2052435956!2d70.42870757910157!3d21.541465400000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39580224d380f369%3A0x95b035429474f867!2sPatel%20Restaurant%20And%20Banquet%20Hall!5e0!3m2!1sen!2sin!4v1650866994399!5m2!1sen!2sin" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </center>
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
